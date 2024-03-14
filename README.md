@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-Hey ,<br>I am Harsh, Pursuing masters in Digital Marketing and Data Science at Emlyon business school.<br>I am currently working on Uber prediction prices 🚕<br>I am currently learning about ways to improve my statistical and analytical skills.<br>you can connect me on Linkedin: https://www.linkedin.com/in/harshjaiswal97/<br>pronouns: He/ Him<br>Fun Fact: I am an avid reader and I can spend almost two hours listening to songs every day.
+Hey ,<br>I am Harsh, Pursuing masters in Digital Marketing and Data Science at Emlyon business school.<br>I am currently working on NLP on Donald Trump Rally Speaches. <br>I am currently learning about ways to improve my statistical and analytical skills.<br>you can connect me on Linkedin: https://www.linkedin.com/in/harshjaiswal97/<br>pronouns: He/ Him<br>Fun Fact: I am an avid reader and I can spend almost two hours listening to songs every day.
 
 
 ## 🌐 Socials:
